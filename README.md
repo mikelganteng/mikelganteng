@@ -19,3 +19,24 @@ Indonesian Full-Stack Developer | PHP, Laravel, CI, Tailwind, Python, MQL5/MQL4
 [![](https://visitcount.itsvg.in/api?id=mikelganteng&icon=3&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="left">Lets Play Game Together</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikelganteng/mikelganteng/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikelganteng/mikelganteng/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mikelganteng/mikelganteng/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/mikelganteng/mikelganteng/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mikelganteng.mikelganteng&left_color=limegreen&right_color=yellowgreen"  />
+</div>
+
+###
